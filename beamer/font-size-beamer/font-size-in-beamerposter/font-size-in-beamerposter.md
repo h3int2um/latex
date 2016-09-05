@@ -26,7 +26,7 @@ Sử dụng các `font size` mở rộng vào bài trình chiếu với Beamer: 
 
 		\documentclass[20pt]{beamer} %8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt
 		
-		\usepackage[orientation=landscape,size=a4, scale=2.3]{beamerposter} %landscape or portrait; a0, a1, a2, a3, a4 or  custom
+		\usepackage[orientation=landscape,size=a4, scale=2.3]{beamerposter} %landscape or portrait; a0, a1, a2, a3, a4 or custom
 		
 * Thay đổi font size `20pt`, khổ giấy `size=a4` và hệ số `scale=2.3` cho đến khi được kích thước phù hợp.
 
