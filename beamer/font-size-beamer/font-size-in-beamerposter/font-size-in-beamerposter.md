@@ -14,7 +14,9 @@ Thời gian: Ngày 05 tháng 09 năm 2016
 
 4. [Beamerposter scale parameter, text font size and title font size](http://tex.stackexchange.com/questions/53561/beamerposter-scale-parameter-text-font-size-and-title-font-size)
 
-## Hướng dẫn khác về cách thay đổi kích thước chữ không sử dụng `beamerposter`: [Font sizes extension in Beamer presentations](https://github.com/h3int2um/latex/blob/master/beamer/font-size-beamer/font-size-extension-beamer/font-size-in-beamer-presentations.md)
+## Hướng dẫn khác về cách thay đổi kích thước chữ không sử dụng beamerposter
+
+Sử dụng các `font size` mở rộng vào bài trình chiếu với Beamer: [Font sizes extension in Beamer presentations](https://github.com/h3int2um/latex/blob/master/beamer/font-size-beamer/font-size-extension-beamer/font-size-in-beamer-presentations.md)
 
 ## Thay đổi font size trong Beamer
 
