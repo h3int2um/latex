@@ -54,7 +54,7 @@ và lưu vào thư mục `extsizes` trên máy tính `Linux`.
 			
 			\DeclareOptionBeamer{24pt}{\def\beamer@size{{size24.clo}}} %Font size extension in Beamer presentations
 			
-			\DeclareOptionBeamer{24pt}{\def\beamer@size{{size28.clo}}}
+			\DeclareOptionBeamer{28pt}{\def\beamer@size{{size28.clo}}}
 			
 			...
 			
